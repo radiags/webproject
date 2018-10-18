@@ -1,0 +1,56 @@
+body {
+  color: #15487f;
+  background: #eff4f8;
+}
+
+.navbar {
+  border-bottom: #64a5c5 3px solid;
+  opacity: 0.8;
+}
+
+.radiags-img {
+  padding: 0.25rem;
+  background-color: #eff4f8;
+  max-width: 100%;
+  height: auto;
+}
+
+#home .home-inner {
+  padding-top: 70px;
+}
+
+.radiagstitle {
+  padding-top: 50px;
+}
+
+.lblimg {
+  color: green;
+  min-width: 25px;
+}
+
+.lblcls {
+  min-width: 120px;
+}
+
+.contactsrow {
+  min-height: 40px;
+}
+
+.imgdivproductdiv {
+  width: 325px;
+  height: 210px;
+  overflow: hidden;
+  padding: 66px 0px 0px 52px;
+}
+
+.listright {
+  width: 320px;
+}
+
+.listleft {
+  width: 320px;
+}
+
+.headerdivider {
+  padding-top: 40px;
+}
